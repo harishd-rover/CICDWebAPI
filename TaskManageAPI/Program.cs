@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
             builder.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
         });
 });
-
+//tttttt
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
